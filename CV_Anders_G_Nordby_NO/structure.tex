@@ -19,7 +19,7 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\usepackage{etoolbox} % Required for conditional statements
+\usepackage{etoolbox} % Required for conditional statements
 
 \setlength\parindent{0pt} % Stop paragraph indentation
 
@@ -128,6 +128,7 @@ SmallCapsFont=*-SC.ttf
 	\expandafter\ifstrequal\expandafter{#4}{}{}{{\raggedright\large\textit{\textbf{#4}}}\\[4pt]} % Job title
 	\expandafter\ifstrequal\expandafter{#5}{}{}{#5\\} % Description
 }
+
 
 % Command for entering a separate qualification
 \newcommand{\educationentry}[5]{
