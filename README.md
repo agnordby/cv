@@ -4,7 +4,7 @@ My CV is composed in LaTeX in two versions; both English and Norwegian.
 Both versions are compiled to PDF, and exist in the corresponding folders:
 
 * [CV_Anders_G_Nordby_EN](https://github.com/agnordby/cv/blob/master/CV_Anders_G_Nordby_EN/CV_Anders_G_Nordby_EN.pdf) (English version of CV)
-* [CV_Anders_G_Nordby_NO](https://github.com/agnordby/cv/tree/master/CV_Anders_G_Nordby_NO/CV_Anders_G_Nordby_NO.pdf) (Norwegian version of CV)
+* [CV_Anders_G_Nordby_NO](https://github.com/agnordby/cv/blob/master/CV_Anders_G_Nordby_NO/CV_Anders_G_Nordby_NO.pdf) (Norwegian version of CV)
 
 
 ### Prerequisites for compiling
@@ -19,7 +19,7 @@ The *.tex files must be compiled using the XeLaTeX engine.
 
 ### Built With
 
-[Texmaker 5.0.3](https://www.xm1math.net/texmaker/) 
+[TeXShop (v 4.68)](https://pages.uoregon.edu/koch/texshop/texshop.html) 
 
 
 ### Author
