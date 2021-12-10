@@ -1,6 +1,6 @@
 # CV for Anders G. Nordby
 
-My CV is composed in LaTeX in two versions; both English and Norwegian.
+My CV is composed in LaTeX in two versions; both English and Norwegian.\
 Both versions are compiled to PDF, and can be downloaded here:
 
 * [CV_Anders_G_Nordby_EN](https://github.com/agnordby/cv/blob/master/CV_Anders_G_Nordby_EN/CV_Anders_G_Nordby_EN.pdf) (English version)
