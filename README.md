@@ -3,8 +3,8 @@
 My CV is composed in LaTeX in two versions; both English and Norwegian.
 Both versions are compiled to PDF, and exist in the corresponding folders:
 
-* CV_Anders_G_Nordby_EN (English version of CV)
-* CV_Anders_G_Nordby_NO (Norwegian version of CV)
+* [CV_Anders_G_Nordby_EN](https://github.com/agnordby/cv/tree/master/CV_Anders_G_Nordby_EN) (English version of CV)
+* [CV_Anders_G_Nordby_NO](https://github.com/agnordby/cv/tree/master/CV_Anders_G_Nordby_NO) (Norwegian version of CV)
 
 
 ### Prerequisites for compiling
