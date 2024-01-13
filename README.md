@@ -19,7 +19,7 @@ The _*.tex_ files must be compiled using the XeLaTeX engine.
 
 ### Built With
 
-[TeXShop (v 4.68)](https://pages.uoregon.edu/koch/texshop/texshop.html) 
+[TeXShop (v 5.24)](https://pages.uoregon.edu/koch/texshop/texshop.html) 
 
 
 ### Author
