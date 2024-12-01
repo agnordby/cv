@@ -9,7 +9,7 @@ Both versions are compiled to PDF, and can be downloaded here:
 
 ### Prerequisites for compiling
 
-Make sure you have an installation of MiKTeX (or similar TeX system).
+Make sure you have an installation of [MiKTeX](https://miktex.org/) (or similar TeX system).
 
 
 ### Compilation to PDF
@@ -19,7 +19,7 @@ The _*.tex_ files must be compiled using the XeLaTeX engine.
 
 ### Built With
 
-[TeXShop (v 5.24)](https://pages.uoregon.edu/koch/texshop/texshop.html) 
+[TeXShop (v 5.47)](https://pages.uoregon.edu/koch/texshop/texshop.html) 
 
 
 ### Author
