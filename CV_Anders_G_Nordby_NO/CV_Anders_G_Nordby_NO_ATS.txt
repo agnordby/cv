@@ -17,30 +17,30 @@ Erfaring med team-ledelse, smidig metodikk og sikkerhetsstyring.
 05.2019 -- d.d.
 
 **GEBHARDT Fördertechnik GmbH** --- Senior systemutvikler (3 måneder)
-*Teknologier:* C#, .NET Core, GitLab, YouTrack, Powershell
+*Teknologier:* C#, .NET Core, GitLab, YouTrack, Powershell 3 måneders
+engasjement som seniorutvikler hos GEBHARDT Fördertechnik (tysk
+leverandør av materialhåndteringsautomasjon), med leveranse av C# / .NET
+Core-funksjonalitet innenfor selskapets GitLab + YouTrack-arbeidsflyt.
 
 **Element Logic** (63 måneder) *Teknologier:* C#, Akka.NET, Blazor,
 REST, GraphQL, NHibernate, SQL, NUnit, Moq, Microsoft .NET Standard,
-ASP.NET, TeamCity, Octopus Deploy, Git, Powershell, Kiuwan Anders er
-seniorutvikler på Element Logics hovedprodukt eManager. I tillegg er han
-opptatt av applikasjonssikkerhet, og er initiativtager og pådriver og
-leder for Element Logics Security Chapions Guild.
+ASP.NET, TeamCity, Octopus Deploy, Git, Powershell, Kiuwan
+Seniorutvikler på eManager --- Element Logics flaggskipsprodukt for
+lagerautomatisering --- i over fem år. Leverte funksjonalitet i C# /
+Akka.NET / Blazor på tvers av REST- og GraphQL-API-er. Initierte og
+leder Element Logics Security Champions Guild --- selskapets interne
+program for sikkerhetsstyring --- og driver fram sikker-kodepraksis på
+tvers av utviklingsorganisasjonen.
 
 **ABB** --- Senior systemutvikler (6 måneder) *Teknologier:* Azure
 DevOps, Azure DB, Azure WebServices, Akka.NET, TypeScript, React JS, C#,
-Microsoft .NET Core, TFS, Git, Powershell
-
-## Lead Software Engineer --- Sopra Steria
-
-01.2018 -- 04.2019
-
-In-house arkitekt med ansvar for planlegging og kvalitetssikring av
-tilbud. Konsulent ute hos kunder.
-
-**Kunder:** Skatteetaten, Helsedirektoratet
+Microsoft .NET Core, TFS, Git, Powershell 6 måneders engasjement som
+seniorutvikler hos ABB på en skybasert teknologistakk: Azure DevOps,
+Azure DB / WebServices, .NET Core, React / TypeScript, Akka.NET.
 
 ## Tidligere stillinger
 
+- 01.2018 -- 04.2019 --- **Sopra Steria**, Lead Software Engineer
 - 03.2014 -- 08.2017 --- **CGI**, Senior webutvikler
 - 03.2010 -- 01.2014 --- **Making Waves**, Senior systemkonsulent
 - 08.2008 -- 12.2009 --- **Creuna**, Konsulent / Systemutvikler

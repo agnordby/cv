@@ -18,30 +18,30 @@ governance.
 05/2019 -- present
 
 **GEBHARDT Fördertechnik GmbH** --- Senior Developer (3 months) *Tech:*
-C#, .NET Core, GitLab, YouTrack, Powershell
+C#, .NET Core, GitLab, YouTrack, Powershell 3-month senior-developer
+engagement at GEBHARDT Fördertechnik (German materials-handling
+automation), delivering C# / .NET Core features within their existing
+GitLab + YouTrack workflow.
 
 **Element Logic** (63 months) *Tech:* C#, Akka.NET, Blazor, REST,
 GraphQL, NHibernate, SQL, NUnit, Moq, Microsoft .NET Standard, ASP.NET,
 TeamCity, Octopus Deploy, Git, Powershell, Kiuwan Senior developer on
-Element Logic's main product, eManager. Additionally, focuses on
-application security, and is the initiator and leader for Element
-Logic's Security Chapions Guild.
+eManager --- Element Logic's flagship warehouse-automation platform ---
+across more than five years. Delivered features in C# / Akka.NET /
+Blazor across REST and GraphQL APIs. Initiated and lead Element Logic's
+Security Champions Guild --- the company's internal security-governance
+program --- driving secure-coding practices across the development
+organization.
 
 **ABB** --- Senior Systems Developer (6 months) *Tech:* Azure DevOps,
 Azure DB, Azure WebServices, Akka.NET, TypeScript, React JS, C#,
-Microsoft .NET Core, TFS, Git, Powershell
-
-## Lead Software Engineer --- Sopra Steria
-
-01/2018 -- 04/2019
-
-In-house architect responsible for planning and QA of offers to
-customers. Senior developer for some customers.
-
-**Customers:** Skatteetaten, Helsedirektoratet
+Microsoft .NET Core, TFS, Git, Powershell 6-month senior-developer
+engagement at ABB on a cloud-native stack: Azure DevOps, Azure DB /
+WebServices, .NET Core, React / TypeScript, Akka.NET.
 
 ## Earlier Positions
 
+- 01/2018 -- 04/2019 --- **Sopra Steria**, Lead Software Engineer
 - 03/2014 -- 08/2017 --- **CGI**, Senior Web Developer
 - 03/2010 -- 01/2014 --- **Making Waves**, Senior Systems Consultant
 - 08/2008 -- 12/2009 --- **Creuna**, Consultant / Systems Developer
