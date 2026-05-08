@@ -1,3 +1,8 @@
+# Anders G. Nordby
+
+anders@delichon.no · +47 932 20 333 ·
+https://www.linkedin.com/in/agnordby/ · https://github.com/agnordby/cv
+
 # Professional Summary
 
 Systems Architect and Senior Developer with 20+ years of experience
@@ -10,7 +15,7 @@ governance.
 
 ## Systems Architect & Senior Developer --- Delichon AS
 
-*05/2019 -- present*
+05/2019 -- present
 
 **GEBHARDT Fördertechnik GmbH** --- Senior Developer (3 months) *Tech:*
 C#, .NET Core, GitLab, YouTrack, Powershell
@@ -28,7 +33,7 @@ Microsoft .NET Core, TFS, Git, Powershell
 
 ## Lead Software Engineer --- Sopra Steria
 
-*01/2018 -- 04/2019*
+01/2018 -- 04/2019
 
 In-house architect responsible for planning and QA of offers to
 customers. Senior developer for some customers.
@@ -37,51 +42,62 @@ customers. Senior developer for some customers.
 
 ## Earlier Positions
 
-- *03/2014 -- 08/2017* --- **CGI**, Senior Web Developer
-- *03/2010 -- 01/2014* --- **Making Waves**, Senior Systems Consultant
-- *08/2008 -- 12/2009* --- **Creuna**, Consultant / Systems Developer
-- *02/2006 -- 07/2008* --- **Ocelluz**, Systems Developer & Project
+- 03/2014 -- 08/2017 --- **CGI**, Senior Web Developer
+- 03/2010 -- 01/2014 --- **Making Waves**, Senior Systems Consultant
+- 08/2008 -- 12/2009 --- **Creuna**, Consultant / Systems Developer
+- 02/2006 -- 07/2008 --- **Ocelluz**, Systems Developer & Project
   Manager
-- *10/2004 -- 02/2008* --- **Anders Nordby Konsulenttjenester**
-- *05/1995 -- 06/2002* --- **Ajilon**, Consultant
+- 10/2004 -- 02/2008 --- **Anders Nordby Konsulenttjenester**
+- 05/1995 -- 06/2002 --- **Ajilon**, Consultant
 
 # Education
 
-- *Current* --- **Kristiania University of Applied Sciences**, Cloud
+- Current --- **Kristiania University of Applied Sciences**, Cloud
   Security
-- *2003 -- 2004* --- **University of Oslo**, Teacher Training
-- *1999 -- 2000* --- **Oslo Business Academy**, IT Candidate
-- *1987 -- 1996* --- **University of Oslo**, Cand.Mag.
-- *1984 -- 1987* --- **Eikeli High School**, Natural Sciences
+- 2003 -- 2004 --- **University of Oslo**, Teacher Training
+- 1999 -- 2000 --- **Oslo Business Academy**, IT Candidate
+- 1987 -- 1996 --- **University of Oslo**, Cand.Mag.
+- 1984 -- 1987 --- **Eikeli High School**, Natural Sciences
 
 # Certifications
 
-- *2025* --- Goethe-Zertifikat Deutsch B2
-- *2025* --- SecureFlag: Secure Coding
-- *2021* --- Certified Optimizely Developer
-- *2020* --- Microsoft AZ900 Azure Fundamentals
-- *2018-2019* --- PRINCE2 Foundation & Practitioner
-- *2019* --- Certified Scrum Master
+- 2025 --- Goethe-Zertifikat Deutsch B2
+- 2025 --- SecureFlag: Secure Coding
+- 2021 --- Certified Optimizely Developer
+- 2020 --- Microsoft AZ900 Azure Fundamentals
+- 2018-2019 --- PRINCE2 Foundation & Practitioner
+- 2019 --- Certified Scrum Master
 
 # Courses
 
-- *2024* --- Building an AppSec Scanning Programme
-- *2019* --- Tom Gilb: Architecture Workshop
-- *2018* --- Sopra Steria: Software Architecture School
-- *2015* --- Microsoft: Lead Enterprise Architect Programme
+- 2024 --- Building an AppSec Scanning Programme
+- 2019 --- Tom Gilb: Architecture Workshop
+- 2018 --- Sopra Steria: Software Architecture School
+- 2015 --- Microsoft: Lead Enterprise Architect Programme
 
 # Awards
 
-- *2013-2017* --- Episerver Most Valued Professional
+- 2013-2017 --- Episerver Most Valued Professional
 
 # Skills
 
-**Processes:** Systems Architecture, Scrum, Kanban, Project Management
+**Languages:** C#, JavaScript, SQL, PowerShell
 
-**Technology:** C#, Akka.Net, GraphQL, NHibernate, Blazor, Specflow,
-NUnit, Episerver, ASP.Net, SQL, Javascript, NServiceBus, REST,
-Powershell, Jira, Confluence, TeamCity, Octopus Deploy, Git, jMeter,
-BlazeMeter, Kiuwan, LaTeX
+**Frameworks & Libraries:** ASP.NET, Akka.NET, Blazor, NHibernate,
+Episerver, NServiceBus, GraphQL, REST
+
+**Cloud & DevOps:** Azure, TeamCity, Octopus Deploy, Git
+
+**Testing:** NUnit, SpecFlow, jMeter, BlazeMeter
+
+**Security:** Kiuwan
+
+**Collaboration:** Jira, Confluence
+
+**Methodologies:** Systems Architecture, Agile, Scrum, Kanban, Project
+Management
+
+**Other Tools:** LaTeX
 
 # Languages
 

@@ -1,3 +1,8 @@
+# Anders G. Nordby
+
+anders@delichon.no · +47 932 20 333 ·
+https://www.linkedin.com/in/agnordby/ · https://github.com/agnordby/cv
+
 # Beskrivelse
 
 Systemarkitekt og senior-utvikler med 20+ års erfaring fra design av
@@ -9,7 +14,7 @@ Erfaring med team-ledelse, smidig metodikk og sikkerhetsstyring.
 
 ## Systemarkitekt & seniorutvikler --- Delichon AS
 
-*05.2019 -- d.d.*
+05.2019 -- d.d.
 
 **GEBHARDT Fördertechnik GmbH** --- Senior systemutvikler (3 måneder)
 *Teknologier:* C#, .NET Core, GitLab, YouTrack, Powershell
@@ -27,7 +32,7 @@ Microsoft .NET Core, TFS, Git, Powershell
 
 ## Lead Software Engineer --- Sopra Steria
 
-*01.2018 -- 04.2019*
+01.2018 -- 04.2019
 
 In-house arkitekt med ansvar for planlegging og kvalitetssikring av
 tilbud. Konsulent ute hos kunder.
@@ -36,49 +41,59 @@ tilbud. Konsulent ute hos kunder.
 
 ## Tidligere stillinger
 
-- *03.2014 -- 08.2017* --- **CGI**, Senior webutvikler
-- *03.2010 -- 01.2014* --- **Making Waves**, Senior systemkonsulent
-- *08.2008 -- 12.2009* --- **Creuna**, Konsulent / Systemutvikler
-- *02.2006 -- 07.2008* --- **Ocelluz**, Systemutvikler & Prosjektleder
-- *10.2004 -- 02.2008* --- **Anders Nordby Konsulenttjenester**
-- *05.1995 -- 06.2002* --- **Ajilon**, Konsulent
+- 03.2014 -- 08.2017 --- **CGI**, Senior webutvikler
+- 03.2010 -- 01.2014 --- **Making Waves**, Senior systemkonsulent
+- 08.2008 -- 12.2009 --- **Creuna**, Konsulent / Systemutvikler
+- 02.2006 -- 07.2008 --- **Ocelluz**, Systemutvikler & Prosjektleder
+- 10.2004 -- 02.2008 --- **Anders Nordby Konsulenttjenester**
+- 05.1995 -- 06.2002 --- **Ajilon**, Konsulent
 
 # Utdannelse
 
-- *Pågående* --- **Høgskolen Kristiania**, Skysikkerheet
-- *2003 -- 2004* --- **Universitetet i Oslo**, PPU
-- *1999 -- 2000* --- **NæringsAkademiet**, IT-kandidat
-- *1987 -- 1996* --- **Universitetet i Oslo**, Cand.Mag.
-- *1984 -- 1987* --- **Eikeli VGS**, Naturfaglinjen
+- Pågående --- **Høgskolen Kristiania**, Skysikkerheet
+- 2003 -- 2004 --- **Universitetet i Oslo**, PPU
+- 1999 -- 2000 --- **NæringsAkademiet**, IT-kandidat
+- 1987 -- 1996 --- **Universitetet i Oslo**, Cand.Mag.
+- 1984 -- 1987 --- **Eikeli VGS**, Naturfaglinjen
 
 # Sertifiseringer
 
-- *2025* --- Goethe-Zertifikat Deutsch B2
-- *2025* --- SecureFlag: Sikker koding
-- *2021* --- Sertifisert Optimizely-utvikler
-- *2020* --- Microsoft AZ900 Azure Fundamentals
-- *2018-2019* --- PRINCE2 Foundation & Practitioner
-- *2019* --- Sertifisert Scrum Master
+- 2025 --- Goethe-Zertifikat Deutsch B2
+- 2025 --- SecureFlag: Sikker koding
+- 2021 --- Sertifisert Optimizely-utvikler
+- 2020 --- Microsoft AZ900 Azure Fundamentals
+- 2018-2019 --- PRINCE2 Foundation & Practitioner
+- 2019 --- Sertifisert Scrum Master
 
 # Kurs
 
-- *2024* --- Bygging av et AppSec-scanningprogram
-- *2019* --- Tom Gilb: Arkitekturworkshop
-- *2018* --- Sopra Steria: Arkitekturskolen
-- *2015* --- Microsoft: Lederprogram for Enterprise-arkitekter
+- 2024 --- Bygging av et AppSec-scanningprogram
+- 2019 --- Tom Gilb: Arkitekturworkshop
+- 2018 --- Sopra Steria: Arkitekturskolen
+- 2015 --- Microsoft: Lederprogram for Enterprise-arkitekter
 
 # Utmerkelser
 
-- *2013-2017* --- Episerver Most Valued Professional
+- 2013-2017 --- Episerver Most Valued Professional
 
 # Kvalifikasjoner
 
-**Prosesser:** Systemarkitektur, Scrum, Kanban, Prosjektledelse
+**Programmeringsspråk:** C#, JavaScript, SQL, PowerShell
 
-**Teknologier & Verktøy:** C#, Akka.Net, GraphQL, NHibernate, Blazor,
-Specflow, NUnit, Episerver, ASP.Net, SQL, Javascript, NServiceBus, REST,
-Powershell, Jira, Confluence, TeamCity, Octopus Deploy, Git, jMeter,
-BlazeMeter, Kiuwan, LaTeX
+**Rammeverk og biblioteker:** ASP.NET, Akka.NET, Blazor, NHibernate,
+Episerver, NServiceBus, GraphQL, REST
+
+**Sky og DevOps:** Azure, TeamCity, Octopus Deploy, Git
+
+**Testing:** NUnit, SpecFlow, jMeter, BlazeMeter
+
+**Sikkerhet:** Kiuwan
+
+**Samarbeid:** Jira, Confluence
+
+**Metodikk:** Systemarkitektur, Smidig, Scrum, Kanban, Prosjektledelse
+
+**Andre verktøy:** LaTeX
 
 # Språk
 
