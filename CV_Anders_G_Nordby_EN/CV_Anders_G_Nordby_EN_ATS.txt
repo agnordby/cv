@@ -1,0 +1,91 @@
+# Professional Summary
+
+Systems Architect and Senior Developer with 20+ years of experience
+designing scalable software solutions across industries. Specialized in
+application security, distributed systems, and modern architecture.
+Proven leader in team coordination, agile practices, and security
+governance.
+
+# Work Experience
+
+## Systems Architect & Senior Developer --- Delichon AS
+
+*05/2019 -- present*
+
+**GEBHARDT Fördertechnik GmbH** --- Senior Developer (3 months) *Tech:*
+C#, .NET Core, GitLab, YouTrack, Powershell
+
+**Element Logic** (63 months) *Tech:* C#, Akka.NET, Blazor, REST,
+GraphQL, NHibernate, SQL, NUnit, Moq, Microsoft .NET Standard, ASP.NET,
+TeamCity, Octopus Deploy, Git, Powershell, Kiuwan Senior developer on
+Element Logic's main product, eManager. Additionally, focuses on
+application security, and is the initiator and leader for Element
+Logic's Security Chapions Guild.
+
+**ABB** --- Senior Systems Developer (6 months) *Tech:* Azure DevOps,
+Azure DB, Azure WebServices, Akka.NET, TypeScript, React JS, C#,
+Microsoft .NET Core, TFS, Git, Powershell
+
+## Lead Software Engineer --- Sopra Steria
+
+*01/2018 -- 04/2019*
+
+In-house architect responsible for planning and QA of offers to
+customers. Senior developer for some customers.
+
+**Customers:** Skatteetaten, Helsedirektoratet
+
+## Earlier Positions
+
+- *03/2014 -- 08/2017* --- **CGI**, Senior Web Developer- *03/2010 --
+  01/2014* --- **Making Waves**, Senior Systems Consultant- *08/2008 --
+  12/2009* --- **Creuna**, Consultant / Systems Developer- *02/2006 --
+  07/2008* --- **Ocelluz**, Systems Developer & Project Manager-
+  *10/2004 -- 02/2008* --- **Anders Nordby Konsulenttjenester**-
+  *05/1995 -- 06/2002* --- **Ajilon**, Consultant \# Education
+
+- *Current* --- **Kristiania University of Applied Sciences**, Cloud
+  Security
+
+- *2003 -- 2004* --- **University of Oslo**, Teacher Training
+
+- *1999 -- 2000* --- **Oslo Business Academy**, IT Candidate
+
+- *1987 -- 1996* --- **University of Oslo**, Cand.Mag.
+
+- *1984 -- 1987* --- **Eikeli High School**, Natural Sciences
+
+# Certifications
+
+- *2025* --- Goethe-Zertifikat Deutsch B2
+- *2025* --- SecureFlag: Secure Coding
+- *2021* --- Certified Optimizely Developer
+- *2020* --- Microsoft AZ900 Azure Fundamentals
+- *2018-2019* --- PRINCE2 Foundation & Practitioner
+- *2019* --- Certified Scrum Master
+
+# Courses
+
+- *2024* --- Building an AppSec Scanning Programme
+- *2019* --- Tom Gilb: Architecture Workshop
+- *2018* --- Sopra Steria: Software Architecture School
+- *2015* --- Microsoft: Lead Enterprise Architect Programme
+
+# Awards
+
+- *2013-2017* --- Episerver Most Valued Professional
+
+# Skills
+
+**Processes:** Systems Architecture, Scrum, Kanban, Project Management
+
+**Technology:** C#, Akka.Net, GraphQL, NHibernate, Blazor, Specflow,
+NUnit, Episerver, ASP.Net, SQL, Javascript, NServiceBus, REST,
+Powershell, Jira, Confluence, TeamCity, Octopus Deploy, Git, jMeter,
+BlazeMeter, Kiuwan, LaTeX
+
+# Languages
+
+- **Professional:** Norwegian (native), English
+- **Conversational:** German (B2), Bulgarian
+- **Beginner:** Spanish, Catalan, Japanese
