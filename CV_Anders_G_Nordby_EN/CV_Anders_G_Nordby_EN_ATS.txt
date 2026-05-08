@@ -39,9 +39,21 @@ Microsoft .NET Core, TFS, Git, Powershell 6-month senior-developer
 engagement at ABB on a cloud-native stack: Azure DevOps, Azure DB /
 WebServices, .NET Core, React / TypeScript, Akka.NET.
 
+## Lead Software Engineer --- Sopra Steria
+
+01/2018 -- 04/2019
+
+In-house architect responsible for technical planning and quality
+assurance of customer proposals --- including bids to Skatteetaten
+(Norwegian Tax Authority) and Helsedirektoratet (Directorate of Health),
+two of Norway's largest public-sector IT clients. Owned pre-sales
+architecture decisions across C#/.NET, Episerver CMS, ASP.NET MVC and
+SQL Server.
+
+**Customers:** Skatteetaten, Helsedirektoratet
+
 ## Earlier Positions
 
-- 01/2018 -- 04/2019 --- **Sopra Steria**, Lead Software Engineer
 - 03/2014 -- 08/2017 --- **CGI**, Senior Web Developer
 - 03/2010 -- 01/2014 --- **Making Waves**, Senior Systems Consultant
 - 08/2008 -- 12/2009 --- **Creuna**, Consultant / Systems Developer
