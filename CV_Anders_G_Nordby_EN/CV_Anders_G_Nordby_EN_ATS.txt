@@ -37,22 +37,21 @@ customers. Senior developer for some customers.
 
 ## Earlier Positions
 
-- *03/2014 -- 08/2017* --- **CGI**, Senior Web Developer- *03/2010 --
-  01/2014* --- **Making Waves**, Senior Systems Consultant- *08/2008 --
-  12/2009* --- **Creuna**, Consultant / Systems Developer- *02/2006 --
-  07/2008* --- **Ocelluz**, Systems Developer & Project Manager-
-  *10/2004 -- 02/2008* --- **Anders Nordby Konsulenttjenester**-
-  *05/1995 -- 06/2002* --- **Ajilon**, Consultant \# Education
+- *03/2014 -- 08/2017* --- **CGI**, Senior Web Developer
+- *03/2010 -- 01/2014* --- **Making Waves**, Senior Systems Consultant
+- *08/2008 -- 12/2009* --- **Creuna**, Consultant / Systems Developer
+- *02/2006 -- 07/2008* --- **Ocelluz**, Systems Developer & Project
+  Manager
+- *10/2004 -- 02/2008* --- **Anders Nordby Konsulenttjenester**
+- *05/1995 -- 06/2002* --- **Ajilon**, Consultant
+
+# Education
 
 - *Current* --- **Kristiania University of Applied Sciences**, Cloud
   Security
-
 - *2003 -- 2004* --- **University of Oslo**, Teacher Training
-
 - *1999 -- 2000* --- **Oslo Business Academy**, IT Candidate
-
 - *1987 -- 1996* --- **University of Oslo**, Cand.Mag.
-
 - *1984 -- 1987* --- **Eikeli High School**, Natural Sciences
 
 # Certifications
