@@ -62,9 +62,21 @@ SQL Server.
 - 10/2004 -- 02/2008 --- **Anders Nordby Konsulenttjenester**
 - 05/1995 -- 06/2002 --- **Ajilon**, Consultant
 
+# Projects
+
+## iOS app: The Sit -- Meditation & Journal
+
+03/2026 -- present \|
+<https://apps.apple.com/us/app/the-sit-meditation-journal/id6764345510>
+
+## iOS app: Memorize Text
+
+12/2025 -- present \|
+<https://apps.apple.com/us/app/memorize-text/id6758014795>
+
 # Education
 
-- Current --- **Kristiania University of Applied Sciences**, Cloud
+- 2025 -- 2026 --- **Kristiania University of Applied Sciences**, Cloud
   Security
 - 2003 -- 2004 --- **University of Oslo**, Teacher Training
 - 1999 -- 2000 --- **Oslo Business Academy**, IT Candidate

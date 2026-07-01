@@ -59,9 +59,21 @@ Server.
 - 10.2004 -- 02.2008 --- **Anders Nordby Konsulenttjenester**
 - 05.1995 -- 06.2002 --- **Ajilon**, Konsulent
 
+# Prosjekter
+
+## iOS-app: The Sit -- Meditation & Journal
+
+03.2026 -- d.d. \|
+<https://apps.apple.com/us/app/the-sit-meditation-journal/id6764345510>
+
+## iOS-app: Memorize Text
+
+12.2025 -- d.d. \|
+<https://apps.apple.com/us/app/memorize-text/id6758014795>
+
 # Utdannelse
 
-- Pågående --- **Høgskolen Kristiania**, Skysikkerheet
+- 2025 -- 2026 --- **Høgskolen Kristiania**, Skysikkerheet
 - 2003 -- 2004 --- **Universitetet i Oslo**, PPU
 - 1999 -- 2000 --- **NæringsAkademiet**, IT-kandidat
 - 1987 -- 1996 --- **Universitetet i Oslo**, Cand.Mag.
